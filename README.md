@@ -1,3 +1,3 @@
-# FreeCodeCamp API Basejump: File Metadata Microservice
+# File Metadata Microservice
 
 <a href="https://brendobrien-filesize.herokuapp.com">https://brendobrien-filesize.herokuapp.com</a>

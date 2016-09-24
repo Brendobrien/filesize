@@ -12,5 +12,5 @@ app.post('/size', upload.single('file'), function (req, res, next) {
 
 var port = process.env.PORT || 3000;
 app.listen(port, function () {
-  console.log('imagesearch listening on port '+port);
+  console.log('filesize listening on port '+port);
 });
